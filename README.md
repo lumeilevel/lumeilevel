@@ -1,10 +1,9 @@
-## **Hi there 👋**
+## **👋Hi there! Nice to see you. 👋**
 
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning artificial intelligence.
+- 📫 Welcome to reach me at dzyu20@fudan.edu.cn.
 
-- 📫 Welcome to reach me at dzyu20@fudan.edu.cn
-
-- 🔭 [Here](https://truenobility303.github.io/posts/) you can find my blogs.
+### Working on
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumeilevel)](https://github.com/anuraghazra/github-readme-stats)
 
