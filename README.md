@@ -13,10 +13,4 @@ My ![Visitor Count](https://profile-counter.glitch.me/lumeilevel/count.svg) visi
 
 ### 🎯 Activity
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lumeilevel&theme=xcode" /> </div>
-
-```
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lumeilevel&theme=xcode" /> </div>
-```
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lumeilevel&theme=xcode" /> </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lumeilevel)](https://github.com/lumeilevel/github-readme-activity-graph)
