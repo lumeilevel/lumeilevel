@@ -1,6 +1,6 @@
 ## **👋 Hi there! Nice to see you. 👏**
 
-![Visitor Count](https://profile-counter.glitch.me/lumeilevel/count.svg)
+My ![Visitor Count](https://profile-counter.glitch.me/lumeilevel/count.svg) visitor
 
 ### ✍ About me
 
@@ -15,3 +15,8 @@
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lumeilevel&theme=xcode" /> </div>
 
+```
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lumeilevel&theme=xcode" /> </div>
+```
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lumeilevel&theme=xcode" /> </div>
