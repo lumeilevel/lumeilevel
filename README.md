@@ -13,4 +13,4 @@ My ![Visitor Count](https://profile-counter.glitch.me/lumeilevel/count.svg) visi
 
 ### 🎯 Activity
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lumeilevel)](https://github.com/lumeilevel/github-readme-activity-graph)
+[![lumeilevel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lumeilevel)](https://github.com/lumeilevel/github-readme-activity-graph)
