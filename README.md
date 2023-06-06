@@ -9,8 +9,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/lumeilevel/count.svg) visi
 
 ### 🦾 Working on
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumeilevel)](https://github.com/lumeilevel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumeilevel&layout=compact)](https://github.com/lumeilevel/github-readme-stats)
 
 ### 🎯 Activity
 
-[![lumeilevel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lumeilevel)](https://github.com/lumeilevel/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lumeilevel&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
